@@ -24,6 +24,11 @@ Used the [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisa
 4. Evaluate model performance
 5. Save the model and test it on custom input
 
+ 
+### 🔗 Try the live app:
+[Click here to use it](https://fake-real-news-yzmoetyuwvxcaqjgt2asya.streamlit.app/)
+
+---
 # 📁 Project Structure
 
 📦 Fake-Real-News/
